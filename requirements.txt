@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+simple-salesforce
+pydantic
+pydantic-settings
+python-dotenv
+httpx
+python-multipart
+pytest
+pytest-asyncio
