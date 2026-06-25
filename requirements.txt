@@ -1,5 +1,6 @@
 fastapi
 uvicorn[standard]
+gunicorn
 simple-salesforce
 pydantic
 pydantic-settings
